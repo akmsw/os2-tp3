@@ -1,4 +1,4 @@
-# Laboratorio Nº3 - Code optimizations
+# Code optimizations
 ## Introduction
 El presente es un trabajo práctico de laboratorio cuyo objetivo es el de analizar un programa dado, y aplicarle cambios que tengan impacto en la velocidad de ejecución del mismo, tratando de mejorar tanto como se pueda la performance y disminuir el consumo de recursos del sistema.
 
