@@ -38,4 +38,4 @@ lab3_opt.o: src/lab3_opt.c
 # Others
 
 clean:
-	rm -r $(DIRS)
+	rm -r $(DIRS) *.out
